@@ -31,7 +31,7 @@ or (right top corner to left bottom corner)
 2. Install the required packages:
 
     ```sh
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
 
 3. Get your OpenAI API key
@@ -71,7 +71,7 @@ To play the AI-assisted version of the game:
 ```
 TicTacToe/
 ├────utils/
-    └──base_tictactoe.py
+    └──base_tic_tac_toe.py
 ├── tic_tac_toe.py
 ├── ai_tic_tac_toe.py
 ├── main.py
