@@ -1,0 +1,10 @@
+# compiled python files
+
+__pycache__
+*.pyc
+.pytest_cache
+.DS_Store
+
+# mac-specific stuff
+venv/
+.env
